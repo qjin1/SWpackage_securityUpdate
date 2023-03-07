@@ -18,7 +18,7 @@ while True:
 #print('you are uploading:' , f'{upload_filename}')
 
 #get the X-AUTH-TOKEN first
-token_value = 'eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJlcW5paWpuIiwiZXhwIjoxNjUyNzQxNTk5fQ.iVymPNxFEPaWlKJJYdX7X9qwhBE3QzJXHeKwHEzVrXA'
+token_value = 'xxxxxxxxxx'
 
 # get the product name and id list
 headers = {
