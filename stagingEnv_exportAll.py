@@ -16,7 +16,7 @@ while True:
 
 
 #get the X-AUTH-TOKEN first
-token_value = 'eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJlcW5paWpuIiwiZXhwIjoxNjUxMjc1MjM2fQ.fcizKGRoO6LY9jwKHQTuzJoVr2ZnWsxtGA_9CcvERis'
+token_value = 'xxxxxxxxxxx'
 
 # get the product name and id list
 headers = {
